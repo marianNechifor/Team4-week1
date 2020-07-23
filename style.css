@@ -42,7 +42,7 @@ body {
 }
 
 .text-uppercase {
-  text-transform: uppercase !important;
+  text-transform: uppercase;
 }
 
 .column-1-of-2 {
