@@ -102,8 +102,7 @@ li a:hover {
 }
 
 .logo img{
-  width: 4em;
-  height: 4em;
+  display: inline;
 }
 
 .separator {

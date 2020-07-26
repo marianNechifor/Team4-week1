@@ -17977,6 +17977,7 @@ li a:hover {
 }
 
 .logo img{
+  display: inline;
   width: 4em;
   height: 4em;
 }
